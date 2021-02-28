@@ -2,3 +2,4 @@ hello, this is Hiroaki
 I am now practicing github!!!
 Hey hey.
 Git commit, practice!!
+hello. i am hiroaki.
