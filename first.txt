@@ -4,3 +4,4 @@ Hey hey.
 Git commit, practice!!
 hello. i am hiroaki.
 git status
+Git diff
